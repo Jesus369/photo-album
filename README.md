@@ -86,3 +86,5 @@ async function createBucket() {
 
 exports.createBucket = createBucket;
 ````
+* In root directory run *npx create-react-app client* 
+ * In the *client* directory run *yarn add @apollo/client grapqhl*
